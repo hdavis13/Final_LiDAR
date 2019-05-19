@@ -1,7 +1,5 @@
 import socket
-import math
 import RPi.GPIO as GPIO
-import time
 
 #set sensor to angle 0-1 and 300RPM
 IP_ADDRESS = "0.0.0.0" #should be 192.168.1.77 if on local machine
